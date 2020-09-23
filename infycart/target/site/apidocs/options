@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Pramod/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar;C:/Users/Pramod/.m2/repository/org/springframework/spring-jcl/5.2.4.RELEASE/spring-jcl-5.2.4.RELEASE.jar;C:/Users/Pramod/.m2/repository/org/springframework/spring-beans/5.2.4.RELEASE/spring-beans-5.2.4.RELEASE.jar;C:/Users/Pramod/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE.jar;C:/Users/Pramod/.m2/repository/org/springframework/spring-aop/5.2.5.RELEASE/spring-aop-5.2.5.RELEASE.jar;C:/Users/Pramod/.m2/repository/org/springframework/spring-expression/5.2.4.RELEASE/spring-expression-5.2.4.RELEASE.jar;C:/Users/Pramod/.m2/repository/mysql/mysql-connector-java/5.1.10/mysql-connector-java-5.1.10.jar;C:/Users/Pramod/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/Supriya Eclipse/infycart/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Supriya Eclipse/infycart/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'infycart 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/Supriya Eclipse/infycart/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'infycart 0.0.1-SNAPSHOT API'
