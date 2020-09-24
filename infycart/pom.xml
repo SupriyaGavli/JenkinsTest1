@@ -176,6 +176,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>infycart-payment</module>
-	  <module>infycart</module>
+	
   </modules>
 </project>
